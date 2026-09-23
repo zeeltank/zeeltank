@@ -4,17 +4,9 @@
 
 ### 💻 Frontend Developer | React.js | Next.js
 
-<a href="https://github.com/zeeltank">
-  <img src="https://komarev.com/ghpvc/?username=zeeltank&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Responsive+Websites;Always+Learning+%26+Improving" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=zeeltank\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 </div>
 
@@ -22,38 +14,34 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coder.gif" />
-
-I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** passionate about building modern, responsive and user-friendly websites.
+I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** passionate about creating modern, responsive and user-friendly websites.
 
 * 💼 Currently working as a **Junior Web Developer**
-* ⚛️ Working mainly with **React.js & Next.js**
+* ⚛️ Working with **React.js & Next.js**
 * 🔗 Experience with **REST API integration**
-* 🎨 Focused on responsive UI and reusable components
+* 🎨 Interested in responsive UI and reusable components
 * 🗄️ Experience with **MySQL & MariaDB**
 * 🔧 Familiar with **Node.js, Express.js & Laravel**
-* 📚 Continuously learning new technologies
+* 📚 Continuously learning and improving my development skills
 * 🚀 Interested in building real-world web projects
-
-<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mariadb" />
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -68,76 +56,82 @@ I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** pass
 **July 2025 – Present**
 
 * Developing responsive websites using **React.js and Next.js**
-* Integrating **REST APIs** with frontend interfaces
+* Integrating REST APIs with frontend interfaces
+* Building reusable React components
 * Working with **MariaDB**
-* Implementing reusable React components
-* Improving website UI and user experience
+* Implementing UI improvements and website functionality
 * Working on real-world website development
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🧴 PureEssence — Perfume E-Commerce Website
 
-### 🧴 PureEssence
+A full-stack perfume e-commerce website focused on providing users with a smooth product discovery and shopping experience.
 
-A perfume e-commerce website designed for browsing and discovering luxury, niche and affordable fragrances.
+### ✨ Key Features
 
-**Features**
+* 🔎 Product search and filtering
+* 🏷️ Brand-based product filtering
+* 🌸 Scent profile and occasion-based filtering
+* 💰 Price-based filtering
+* ⭐ Product reviews
+* 💳 Payment-related functionality
+* 🌍 Multi-currency support
+* 📦 Shipping functionality
+* 📝 Blog / content section
+* 👨‍💼 Admin panel
+* 📤 Product image upload
 
-* Product filtering
-* Brand & scent categories
-* Recommendations
-* Reviews
-* Responsive design
-* Payment integration
+### 🛠️ Technologies
 
-**Tech:** React.js · Node.js · Express.js · MySQL
+**React.js · Node.js · Express.js · MySQL · REST API · Multer**
 
-</td>
+---
 
-<td width="50%">
+## 🏢 Onboarding Management System
 
-### 🍎 FreshFruitsHub
+A modern **Next.js-based onboarding management system** designed with multiple UI components and data-driven functionality.
 
-A responsive fruit e-commerce website with a clean and user-friendly shopping experience.
+### ✨ Key Features
 
-**Features**
+* 👤 Employee onboarding workflow
+* 📊 Dashboard and data visualization
+* 📋 Data tables
+* 📈 Charts and reports
+* 📝 Form handling
+* 📅 Date-based functionality
+* 📄 PDF generation
+* 📊 Excel export
+* 🔍 Interactive UI components
+* 🎨 Responsive interface
+* 🧩 Reusable components
 
-* Product browsing
-* Shop section
-* Offers
-* News section
-* Responsive UI
+### 🛠️ Technologies
 
-**Tech:** React.js · JavaScript · CSS
+**Next.js · React.js · JavaScript/TypeScript · Tailwind CSS · Framer Motion · Recharts · React Hook Form · Supabase**
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+## 🤖 G2G — AI / Data Visualization Project
 
-### 🌿 VYAAN Ayurveda
+A modern **Next.js application** involving interactive data visualization and AI-related functionality.
 
-A responsive Ayurvedic products promotional website focused on clean design and mobile-friendly layouts.
+### ✨ Key Features
 
-**Tech:** HTML · CSS · Bootstrap
+* 🤖 AI integration
+* 📊 Interactive charts
+* 🔗 Data visualization
+* 🧩 Interactive flow-based UI
+* 📝 Form handling
+* 📈 Analytics components
+* 🗄️ MariaDB integration
+* ⚡ Modern Next.js architecture
 
-</td>
+### 🛠️ Technologies
 
-<td width="50%">
-
-### 💡 More Projects
-
-I'm continuously working on new projects to improve my frontend development skills and explore modern web technologies.
-
-</td>
-</tr>
-</table>
+**Next.js · React · TypeScript · Tailwind CSS · MariaDB · React Query · Recharts · React Hook Form · AI SDK**
 
 ---
 
@@ -171,33 +165,21 @@ I'm continuously working on new projects to improve my frontend development skil
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Currently Focused On
 
 ```text
-React.js       ████████████████████  Advanced
-Next.js        ██████████████████░░  Growing
-JavaScript     ███████████████████░  Strong
-REST APIs      ██████████████████░░  Growing
-Node.js        ███████████████░░░░░  Learning
-```
-
----
-
-## 📈 My Development Focus
-
-```text
-🌐 Responsive Websites
-⚛️ React.js Development
+⚛️ React.js
 🚀 Next.js
 🔗 REST API Integration
-🎨 UI/UX & Responsive Design
-🗄️ Database Integration
+🎨 Responsive UI Development
 🧩 Reusable Components
+🗄️ Database Integration
+📈 Modern Web Development
 ```
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
