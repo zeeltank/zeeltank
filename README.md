@@ -2,15 +2,13 @@
 
 # 👋 Hi, I'm **Zeel Tank**
 
-### 💻 Junior Web Developer • React.js • Next.js
+### 💻 Junior Web Developer | React.js | Next.js
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Responsive+Websites;Turning+Ideas+Into+Websites;Always+Learning+%26+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=0E75B6&center=true&vCenter=true&width=720&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Modern+Websites;Responsive+UI+%7C+REST+APIs;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/zeeltank">
-  <img src="https://komarev.com/ghpvc/?username=zeeltank&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=zeeltank&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -18,38 +16,35 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focused on building clean, responsive and user-friendly websites.
+I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focused on building modern, responsive and user-friendly websites.
 
-* 💼 Currently working as a **Junior Web Developer**
-* ⚛️ Working primarily with **React.js & Next.js**
-* 🔗 Experienced in **REST API integration**
-* 🎨 Passionate about **responsive UI & reusable components**
-* 🗄️ Experience with **MySQL & MariaDB**
-* 🔧 Familiar with **Node.js, Express.js & Laravel**
-* 🌱 Continuously improving my frontend and web development skills
-* 🚀 Interested in building practical, real-world websites
+* 💼 **Junior Web Developer** at Scholar Clone
+* ⚛️ Working with **React.js & Next.js**
+* 🔗 REST API integration & frontend development
+* 🎨 Responsive UI & reusable components
+* 🗄️ MySQL & MariaDB
+* 🔧 Node.js, Express.js & Laravel
+* 🌱 Continuously learning modern web technologies
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
-</p>
 
 ### Backend & Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mariadb" />
-</p>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+
+</div>
 
 ---
 
@@ -60,28 +55,123 @@ I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focu
 **July 2025 – Present**
 
 * Developing responsive websites using **React.js and Next.js**
-* Building reusable and maintainable frontend components
-* Integrating **REST APIs** with frontend interfaces
+* Creating reusable frontend components
+* Integrating REST APIs
 * Working with **MariaDB**
 * Implementing website features and UI improvements
-* Contributing to real-world website development
+* Contributing to real-world web development projects
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧴 PureEssence
+<div align="center">
+
+### 💡 Real-world projects I've worked on
+
+</div>
+
+---
+
+## 🎓 Next LMS ERP
+
+**Education Management • ERP • LMS**
+
+An education technology platform focused on managing LMS and ERP-related workflows.
+
+### Highlights
+
+* 🎓 Education & LMS workflows
+* 📊 ERP-oriented management features
+* 🧩 Modular frontend structure
+* 📱 Responsive interface
+* 🎨 Bootstrap-based UI
+* ⚡ Vue.js frontend development
+
+**Tech:** `Vue.js` `Bootstrap 5` `JavaScript` `Sass` `Laravel Mix` `Axios`
+
+---
+
+## 📚 LMS K12
+
+**K-12 Learning Management Platform**
+
+A modern learning platform focused on digital learning, academic workflows and education management.
+
+### Highlights
+
+* 🎓 K-12 learning workflows
+* 📚 Academic content management
+* 🧑‍🏫 Teacher-oriented workflows
+* 👨‍🎓 Student learning experience
+* 📝 Assessment workflows
+* 📊 Progress & management views
+* 🧩 Interactive UI components
+* 🖱️ Drag & drop functionality
+* ✍️ Rich text editing
+* 📈 Data visualization
+* 🤖 AI SDK integration
+* 📱 Responsive design
+
+**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `AI SDK` `TipTap` `Recharts` `Chart.js`
+
+---
+
+## 🏢 Onboarding Management System
+
+**Next.js • Business Management • Data Visualization**
+
+A modern website focused on employee onboarding workflows, dashboards and data-driven interfaces.
+
+### Highlights
+
+* 👤 Employee onboarding workflows
+* 📊 Interactive dashboards
+* 📋 Data tables
+* 📈 Charts & reports
+* 📝 Form handling
+* 📄 PDF generation
+* 📊 Excel export
+* 🎨 Responsive UI
+* 🧩 Reusable components
+
+**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Recharts` `Framer Motion`
+
+---
+
+## 🤖 G2G
+
+**Next.js • Data Visualization • AI SDK**
+
+A modern Next.js website involving interactive interfaces, data visualization and AI-related functionality.
+
+### Highlights
+
+* 🤖 AI SDK integration
+* 📊 Interactive charts
+* 🔗 Data visualization
+* 🧩 Flow-based UI
+* 📝 Form handling
+* 📈 Analytics components
+* 🗄️ MariaDB integration
+
+**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `MariaDB` `React Query` `Recharts` `AI SDK`
+
+---
+
+## 🧴 PureEssence
 
 **Perfume E-Commerce Website**
 
-A full-stack e-commerce website focused on perfume discovery and online shopping.
+A full-stack perfume e-commerce website designed around product discovery and online shopping.
 
-**Highlights**
+### Highlights
 
 * 🔎 Product search & filtering
-* 🏷️ Brand, scent profile & occasion filters
-* 💰 Price-based filtering
-* ⭐ Reviews & product content
+* 🏷️ Brand & category filtering
+* 🌸 Scent profile & occasion filtering
+* 💰 Price filtering
+* ⭐ Product reviews
 * 💳 Payment functionality
 * 🌍 Multi-currency support
 * 📦 Shipping functionality
@@ -93,64 +183,20 @@ A full-stack e-commerce website focused on perfume discovery and online shopping
 
 ---
 
-### 🏢 Onboarding Management System
-
-**Next.js • Data Visualization • Business UI**
-
-A modern website focused on employee onboarding workflows, dashboards and data-driven interfaces.
-
-**Highlights**
-
-* 👤 Employee onboarding workflows
-* 📊 Interactive dashboards
-* 📈 Charts & data visualization
-* 📋 Advanced data tables
-* 📝 Form handling
-* 📅 Date-based functionality
-* 📄 PDF generation
-* 📊 Excel export
-* 🎨 Responsive UI
-* 🧩 Reusable components
-
-**Tech:** `Next.js` `React.js` `TypeScript` `Tailwind CSS` `Supabase` `Recharts` `Framer Motion`
-
----
-
-### 🤖 G2G
-
-**Next.js • AI SDK • Data Visualization**
-
-A modern Next.js website combining interactive interfaces, data visualization and AI-related functionality.
-
-**Highlights**
-
-* 🤖 AI SDK integration
-* 📊 Interactive charts
-* 🔗 Data visualization
-* 🧩 Flow-based interactive UI
-* 📝 Form handling
-* 📈 Analytics components
-* 🗄️ MariaDB integration
-* ⚡ Modern Next.js architecture
-
-**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `MariaDB` `React Query` `Recharts` `AI SDK`
-
----
-
-## ⚡ What I Work With
+# ⚡ What I Work With
 
 ```text
-Frontend        →  React.js • Next.js • JavaScript • HTML • CSS
-UI              →  Bootstrap • Tailwind CSS • Responsive Design
-Backend         →  Node.js • Express.js • Laravel
-Database        →  MySQL • MariaDB
-API             →  REST APIs • API Integration
-Tools           →  Git • GitHub • VS Code
+Frontend       → React.js • Next.js • JavaScript • HTML • CSS
+UI             → Bootstrap • Tailwind CSS • Responsive Design
+Backend        → Node.js • Express.js • Laravel
+Database       → MySQL • MariaDB
+API            → REST APIs • Axios • API Integration
+Tools          → Git • GitHub • VS Code
 ```
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -170,7 +216,7 @@ Tools           →  Git • GitHub • VS Code
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -180,22 +226,22 @@ Tools           →  Git • GitHub • VS Code
 
 ---
 
-## 🎯 Currently Learning & Improving
+# 🎯 Currently Focused On
 
 <div align="center">
 
-`React.js` • `Next.js` • `JavaScript` • `REST APIs` • `Responsive UI` • `Database Integration`
+`React.js` · `Next.js` · `JavaScript` · `REST APIs` · `Responsive UI` · `Database Integration`
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:zeeltank2122@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/zeeltank">
@@ -208,8 +254,8 @@ Tools           →  Git • GitHub • VS Code
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### 🚀 Building. Learning. Improving.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
 
 </div>
