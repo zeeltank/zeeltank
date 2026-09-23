@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm **Zeel Tank**
-
-### 💻 Junior Web Developer | React.js | Next.js
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=0E75B6&center=true&vCenter=true&width=720&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Modern+Websites;Responsive+UI+%7C+REST+APIs;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Zeel%20Tank&fontSize=55&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20React.js%20%7C%20Next.js&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zeeltank&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=0E75B6&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Modern+Websites;Responsive+UI+%7C+REST+APIs;Always+Learning+%26+Building" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=zeeltank&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -16,31 +16,40 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focused on building modern, responsive and user-friendly websites.
+<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer/Developer.gif" alt="Developer Animation"/>
+
+I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focused on creating modern, responsive and user-friendly websites.
 
 * 💼 **Junior Web Developer** at Scholar Clone
 * ⚛️ Working with **React.js & Next.js**
-* 🔗 REST API integration & frontend development
+* 🔗 REST API integration
 * 🎨 Responsive UI & reusable components
 * 🗄️ MySQL & MariaDB
 * 🔧 Node.js, Express.js & Laravel
 * 🌱 Continuously learning modern web technologies
+* 🚀 Interested in building real-world websites
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
 
-### Backend & Database
+<br/><br/>
+
+### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mariadb" />
 
-### Tools
+<br/><br/>
+
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -49,6 +58,8 @@ I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focu
 ---
 
 ## 💼 Experience
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer%20GIFs/Developer%20coding.gif" alt="Coding Animation"/>
 
 ### 🏢 Junior Web Developer — Scholar Clone
 
@@ -61,13 +72,15 @@ I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focu
 * Implementing website features and UI improvements
 * Contributing to real-world web development projects
 
+<br clear="right"/>
+
 ---
 
 # 🚀 Featured Projects
 
 <div align="center">
 
-### 💡 Real-world projects I've worked on
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Projects+I've+Worked+On;Building+Real-World+Websites;From+UI+to+Business+Systems" alt="Projects Animation"/>
 
 </div>
 
@@ -75,11 +88,11 @@ I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focu
 
 ## 🎓 Next LMS ERP
 
-**Education Management • ERP • LMS**
+### `Education Management • ERP • LMS`
 
-An education technology platform focused on managing LMS and ERP-related workflows.
+An education technology platform focused on LMS and ERP-related workflows.
 
-### Highlights
+**✨ Highlights**
 
 * 🎓 Education & LMS workflows
 * 📊 ERP-oriented management features
@@ -88,17 +101,19 @@ An education technology platform focused on managing LMS and ERP-related workflo
 * 🎨 Bootstrap-based UI
 * ⚡ Vue.js frontend development
 
-**Tech:** `Vue.js` `Bootstrap 5` `JavaScript` `Sass` `Laravel Mix` `Axios`
+**🛠️ Tech**
+
+`Vue.js` `Bootstrap 5` `JavaScript` `Sass` `Laravel Mix` `Axios`
 
 ---
 
 ## 📚 LMS K12
 
-**K-12 Learning Management Platform**
+### `K-12 Learning Management Platform`
 
 A modern learning platform focused on digital learning, academic workflows and education management.
 
-### Highlights
+**✨ Highlights**
 
 * 🎓 K-12 learning workflows
 * 📚 Academic content management
@@ -106,24 +121,25 @@ A modern learning platform focused on digital learning, academic workflows and e
 * 👨‍🎓 Student learning experience
 * 📝 Assessment workflows
 * 📊 Progress & management views
-* 🧩 Interactive UI components
 * 🖱️ Drag & drop functionality
 * ✍️ Rich text editing
 * 📈 Data visualization
 * 🤖 AI SDK integration
 * 📱 Responsive design
 
-**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `AI SDK` `TipTap` `Recharts` `Chart.js`
+**🛠️ Tech**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `AI SDK` `TipTap` `Recharts` `Chart.js`
 
 ---
 
 ## 🏢 Onboarding Management System
 
-**Next.js • Business Management • Data Visualization**
+### `Next.js • Business Management • Data Visualization`
 
 A modern website focused on employee onboarding workflows, dashboards and data-driven interfaces.
 
-### Highlights
+**✨ Highlights**
 
 * 👤 Employee onboarding workflows
 * 📊 Interactive dashboards
@@ -135,17 +151,19 @@ A modern website focused on employee onboarding workflows, dashboards and data-d
 * 🎨 Responsive UI
 * 🧩 Reusable components
 
-**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Recharts` `Framer Motion`
+**🛠️ Tech**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Recharts` `Framer Motion`
 
 ---
 
 ## 🤖 G2G
 
-**Next.js • Data Visualization • AI SDK**
+### `Next.js • Data Visualization • AI SDK`
 
 A modern Next.js website involving interactive interfaces, data visualization and AI-related functionality.
 
-### Highlights
+**✨ Highlights**
 
 * 🤖 AI SDK integration
 * 📊 Interactive charts
@@ -155,17 +173,19 @@ A modern Next.js website involving interactive interfaces, data visualization an
 * 📈 Analytics components
 * 🗄️ MariaDB integration
 
-**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `MariaDB` `React Query` `Recharts` `AI SDK`
+**🛠️ Tech**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `MariaDB` `React Query` `Recharts` `AI SDK`
 
 ---
 
 ## 🧴 PureEssence
 
-**Perfume E-Commerce Website**
+### `Perfume E-Commerce Website`
 
 A full-stack perfume e-commerce website designed around product discovery and online shopping.
 
-### Highlights
+**✨ Highlights**
 
 * 🔎 Product search & filtering
 * 🏷️ Brand & category filtering
@@ -179,11 +199,19 @@ A full-stack perfume e-commerce website designed around product discovery and on
 * 👨‍💼 Admin panel
 * 📤 Product image uploads
 
-**Tech:** `React.js` `Node.js` `Express.js` `MySQL` `REST API` `Multer`
+**🛠️ Tech**
+
+`React.js` `Node.js` `Express.js` `MySQL` `REST API` `Multer`
 
 ---
 
 # ⚡ What I Work With
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Development;Responsive+UI+Development;REST+API+Integration;Database+Integration;Reusable+Components" alt="Skills Animation"/>
+
+</div>
 
 ```text
 Frontend       → React.js • Next.js • JavaScript • HTML • CSS
@@ -196,13 +224,13 @@ Tools          → Git • GitHub • VS Code
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeeltank&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zeeltank&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeltank&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeltank&layout=compact&hide_border=true" height="170"/>
 
 </div>
 
@@ -210,17 +238,41 @@ Tools          → Git • GitHub • VS Code
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zeeltank&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=zeeltank&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zeeltank/zeeltank/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zeeltank&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeltank&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeltank/zeeltank/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeeltank/zeeltank/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zeeltank/zeeltank/output/github-snake.svg" width="95%">
+</picture>
 
 </div>
 
@@ -230,13 +282,17 @@ Tools          → Git • GitHub • VS Code
 
 <div align="center">
 
-`React.js` · `Next.js` · `JavaScript` · `REST APIs` · `Responsive UI` · `Database Integration`
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,mysql,git" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;React.js+%7C+Next.js+%7C+REST+APIs;Modern+Frontend+Development" alt="Currently Learning"/>
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <div align="center">
 
@@ -254,8 +310,8 @@ Tools          → Git • GitHub • VS Code
 
 <div align="center">
 
-### 🚀 Building. Learning. Improving.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+%F0%9F%9A%80" alt="Thanks Animation"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
