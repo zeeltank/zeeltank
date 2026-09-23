@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Zeel Tank
+# 👋 Hi, I'm **Zeel Tank**
 
-### 💻 Frontend Developer | React.js | Next.js
+### 💻 Junior Web Developer • React.js • Next.js
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Responsive+Websites;Always+Learning+%26+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Responsive+Websites;Turning+Ideas+Into+Websites;Always+Learning+%26+Improving" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=zeeltank\&label=Profile%20Views\&color=0e75b6\&style=flat)
+<br/>
+
+<a href="https://github.com/zeeltank">
+  <img src="https://komarev.com/ghpvc/?username=zeeltank&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
 
 </div>
 
@@ -14,20 +18,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** passionate about creating modern, responsive and user-friendly websites.
+I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focused on building clean, responsive and user-friendly websites.
 
 * 💼 Currently working as a **Junior Web Developer**
-* ⚛️ Working with **React.js & Next.js**
-* 🔗 Experience with **REST API integration**
-* 🎨 Interested in responsive UI and reusable components
+* ⚛️ Working primarily with **React.js & Next.js**
+* 🔗 Experienced in **REST API integration**
+* 🎨 Passionate about **responsive UI & reusable components**
 * 🗄️ Experience with **MySQL & MariaDB**
 * 🔧 Familiar with **Node.js, Express.js & Laravel**
-* 📚 Continuously learning and improving my development skills
-* 🚀 Interested in building real-world web projects
+* 🌱 Continuously improving my frontend and web development skills
+* 🚀 Interested in building practical, real-world websites
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Frontend
 
@@ -56,96 +60,107 @@ I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** pass
 **July 2025 – Present**
 
 * Developing responsive websites using **React.js and Next.js**
-* Integrating REST APIs with frontend interfaces
-* Building reusable React components
+* Building reusable and maintainable frontend components
+* Integrating **REST APIs** with frontend interfaces
 * Working with **MariaDB**
-* Implementing UI improvements and website functionality
-* Working on real-world website development
+* Implementing website features and UI improvements
+* Contributing to real-world website development
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-## 🧴 PureEssence — Perfume E-Commerce Website
+### 🧴 PureEssence
 
-A full-stack perfume e-commerce website focused on providing users with a smooth product discovery and shopping experience.
+**Perfume E-Commerce Website**
 
-### ✨ Key Features
+A full-stack e-commerce website focused on perfume discovery and online shopping.
 
-* 🔎 Product search and filtering
-* 🏷️ Brand-based product filtering
-* 🌸 Scent profile and occasion-based filtering
+**Highlights**
+
+* 🔎 Product search & filtering
+* 🏷️ Brand, scent profile & occasion filters
 * 💰 Price-based filtering
-* ⭐ Product reviews
-* 💳 Payment-related functionality
+* ⭐ Reviews & product content
+* 💳 Payment functionality
 * 🌍 Multi-currency support
 * 📦 Shipping functionality
-* 📝 Blog / content section
+* 📝 Blog section
 * 👨‍💼 Admin panel
-* 📤 Product image upload
+* 📤 Product image uploads
 
-### 🛠️ Technologies
-
-**React.js · Node.js · Express.js · MySQL · REST API · Multer**
+**Tech:** `React.js` `Node.js` `Express.js` `MySQL` `REST API` `Multer`
 
 ---
 
-## 🏢 Onboarding Management System
+### 🏢 Onboarding Management System
 
-A modern **Next.js-based onboarding management system** designed with multiple UI components and data-driven functionality.
+**Next.js • Data Visualization • Business UI**
 
-### ✨ Key Features
+A modern website focused on employee onboarding workflows, dashboards and data-driven interfaces.
 
-* 👤 Employee onboarding workflow
-* 📊 Dashboard and data visualization
-* 📋 Data tables
-* 📈 Charts and reports
+**Highlights**
+
+* 👤 Employee onboarding workflows
+* 📊 Interactive dashboards
+* 📈 Charts & data visualization
+* 📋 Advanced data tables
 * 📝 Form handling
 * 📅 Date-based functionality
 * 📄 PDF generation
 * 📊 Excel export
-* 🔍 Interactive UI components
-* 🎨 Responsive interface
+* 🎨 Responsive UI
 * 🧩 Reusable components
 
-### 🛠️ Technologies
-
-**Next.js · React.js · JavaScript/TypeScript · Tailwind CSS · Framer Motion · Recharts · React Hook Form · Supabase**
+**Tech:** `Next.js` `React.js` `TypeScript` `Tailwind CSS` `Supabase` `Recharts` `Framer Motion`
 
 ---
 
-## 🤖 G2G — AI / Data Visualization Project
+### 🤖 G2G
 
-A modern **Next.js application** involving interactive data visualization and AI-related functionality.
+**Next.js • AI SDK • Data Visualization**
 
-### ✨ Key Features
+A modern Next.js website combining interactive interfaces, data visualization and AI-related functionality.
 
-* 🤖 AI integration
+**Highlights**
+
+* 🤖 AI SDK integration
 * 📊 Interactive charts
 * 🔗 Data visualization
-* 🧩 Interactive flow-based UI
+* 🧩 Flow-based interactive UI
 * 📝 Form handling
 * 📈 Analytics components
 * 🗄️ MariaDB integration
 * ⚡ Modern Next.js architecture
 
-### 🛠️ Technologies
-
-**Next.js · React · TypeScript · Tailwind CSS · MariaDB · React Query · Recharts · React Hook Form · AI SDK**
+**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `MariaDB` `React Query` `Recharts` `AI SDK`
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ What I Work With
+
+```text
+Frontend        →  React.js • Next.js • JavaScript • HTML • CSS
+UI              →  Bootstrap • Tailwind CSS • Responsive Design
+Backend         →  Node.js • Express.js • Laravel
+Database        →  MySQL • MariaDB
+API             →  REST APIs • API Integration
+Tools           →  Git • GitHub • VS Code
+```
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeeltank&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zeeltank&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeltank&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeltank&layout=compact&hide_border=true" height="165"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -155,31 +170,27 @@ A modern **Next.js application** involving interactive data visualization and AI
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/zeeltank/zeeltank/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/zeeltank/zeeltank/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
+## 🎯 Currently Learning & Improving
 
-```text
-⚛️ React.js
-🚀 Next.js
-🔗 REST API Integration
-🎨 Responsive UI Development
-🧩 Reusable Components
-🗄️ Database Integration
-📈 Modern Web Development
-```
+<div align="center">
+
+`React.js` • `Next.js` • `JavaScript` • `REST APIs` • `Responsive UI` • `Database Integration`
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -193,12 +204,12 @@ A modern **Next.js application** involving interactive data visualization and AI
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"/>
 
 </div>
