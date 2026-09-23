@@ -1,92 +1,222 @@
-# Hi, I'm Zeel Tank 👋
+<div align="center">
 
-### Frontend Developer | React.js | Next.js
+# 👋 Hi, I'm Zeel Tank
 
-I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** focused on building responsive, user-friendly websites and modern frontend experiences.
+### 💻 Frontend Developer | React.js | Next.js
+
+<a href="https://github.com/zeeltank">
+  <img src="https://komarev.com/ghpvc/?username=zeeltank&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Responsive+Websites;Always+Learning+%26+Improving" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coder.gif" />
+
+I'm a **B.E. Computer Engineering graduate** and a **Junior Web Developer** passionate about building modern, responsive and user-friendly websites.
 
 * 💼 Currently working as a **Junior Web Developer**
-* ⚛️ Working with **React.js, Next.js, JavaScript & REST APIs**
-* 🎨 Interested in clean UI, responsive design and reusable components
+* ⚛️ Working mainly with **React.js & Next.js**
+* 🔗 Experience with **REST API integration**
+* 🎨 Focused on responsive UI and reusable components
 * 🗄️ Experience with **MySQL & MariaDB**
-* 🔧 Familiar with **Node.js, Express.js and Laravel**
-* 🚀 Continuously learning and improving my development skills
+* 🔧 Familiar with **Node.js, Express.js & Laravel**
+* 📚 Continuously learning new technologies
+* 🚀 Interested in building real-world web projects
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+</p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mariadb" />
+</p>
 
-### Tools
+### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-**Junior Web Developer — Scholar Clone**
-*July 2025 – Present*
+### 🏢 Junior Web Developer — Scholar Clone
 
-* Developing responsive websites using React.js and Next.js
-* Integrating REST APIs and implementing frontend functionality
-* Working with databases including MariaDB
-* Collaborating on real-world website development and improvements
+**July 2025 – Present**
+
+* Developing responsive websites using **React.js and Next.js**
+* Integrating **REST APIs** with frontend interfaces
+* Working with **MariaDB**
+* Implementing reusable React components
+* Improving website UI and user experience
+* Working on real-world website development
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🧴 PureEssence
 
-Perfume e-commerce website with product browsing, filters, recommendations, reviews and payment-related features.
+A perfume e-commerce website designed for browsing and discovering luxury, niche and affordable fragrances.
 
-**Tech:** React.js, Node.js, Express.js, MySQL
+**Features**
+
+* Product filtering
+* Brand & scent categories
+* Recommendations
+* Reviews
+* Responsive design
+* Payment integration
+
+**Tech:** React.js · Node.js · Express.js · MySQL
+
+</td>
+
+<td width="50%">
 
 ### 🍎 FreshFruitsHub
 
-Responsive fruit e-commerce website with product browsing, shopping sections and a clean user interface.
+A responsive fruit e-commerce website with a clean and user-friendly shopping experience.
 
-**Tech:** React.js, JavaScript, CSS
+**Features**
+
+* Product browsing
+* Shop section
+* Offers
+* News section
+* Responsive UI
+
+**Tech:** React.js · JavaScript · CSS
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🌿 VYAAN Ayurveda
 
-Responsive Ayurvedic products promotional website focused on clean design and mobile-friendly layouts.
+A responsive Ayurvedic products promotional website focused on clean design and mobile-friendly layouts.
 
-**Tech:** HTML, CSS, Bootstrap
+**Tech:** HTML · CSS · Bootstrap
 
----
+</td>
 
-## 📈 GitHub Stats
+<td width="50%">
 
-![Zeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeeltank\&show_icons=true\&hide_border=true\&rank_icon=github)
+### 💡 More Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeltank\&layout=compact\&hide_border=true)
+I'm continuously working on new projects to improve my frontend development skills and explore modern web technologies.
 
----
-
-## 📫 Connect With Me
-
-* 📧 **Email:** [zeeltank2122@gmail.com](mailto:zeeltank2122@gmail.com)
-* 💻 **GitHub:** [github.com/zeeltank](https://github.com/zeeltank)
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zeeltank&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeltank&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zeeltank&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/zeeltank/zeeltank/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+React.js       ████████████████████  Advanced
+Next.js        ██████████████████░░  Growing
+JavaScript     ███████████████████░  Strong
+REST APIs      ██████████████████░░  Growing
+Node.js        ███████████████░░░░░  Learning
+```
+
+---
+
+## 📈 My Development Focus
+
+```text
+🌐 Responsive Websites
+⚛️ React.js Development
+🚀 Next.js
+🔗 REST API Integration
+🎨 UI/UX & Responsive Design
+🗄️ Database Integration
+🧩 Reusable Components
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:zeeltank2122@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/zeeltank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=100&section=footer"/>
+
+</div>
